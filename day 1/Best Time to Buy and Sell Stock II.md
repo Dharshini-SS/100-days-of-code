@@ -63,10 +63,10 @@ public:
              break;
          }
         }
-if(profit<0) return 0;
-        else return profit;
-    }
-};
+      if(profit<0) return 0;
+      else return profit;
+        }};
+       
 
 
 
