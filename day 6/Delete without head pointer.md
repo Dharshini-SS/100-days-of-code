@@ -45,6 +45,7 @@ Constraints:
 1 <= N <= 103
 
 ### Solution [C++]
+
 class Solution
 {
     public:
@@ -56,8 +57,6 @@ class Solution
     }
 };
        
-
-
 
 
 >Expected Time Complexity : O(1)
