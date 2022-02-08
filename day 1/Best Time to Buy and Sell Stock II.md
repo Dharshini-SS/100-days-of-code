@@ -1,11 +1,11 @@
 ---
-title : "Best Time to Buy and Sell Stock II"
-description : "Brute Force approach"
+Title : "Best Time to Buy and Sell Stock II"
+Description : "Brute Force approach"
 Categories :
     - Coding
     - Vectors
     - Arrays
-platform  : "Leetcode"
+Platform  : "Leetcode"
 ---
 
 ### Question
