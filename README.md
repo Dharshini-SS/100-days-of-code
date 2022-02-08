@@ -10,7 +10,7 @@
 |3||||||
 |4||||||
 |5||||||
-|6||||||
+|6|Delete without head pointer |Deterministic|c++|<a href="https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1/?category[]=Linked%20List&category[]=Linked%20List&page=1&query=category[]Linked%20Listpage1category[]Linked%20List">problem</a>|<a href="https://github.com/Dharshini-SS/100-days-of-code/tree/main/day%206">soln</a>|
 |7||||||
 |8||||||
 |9||||||
