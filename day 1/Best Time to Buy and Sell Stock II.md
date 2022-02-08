@@ -5,6 +5,7 @@ Categories :
     - Coding
     - Vectors
     - Arrays
+platform  : "Leetcode"
 ---
 
 ### Question
