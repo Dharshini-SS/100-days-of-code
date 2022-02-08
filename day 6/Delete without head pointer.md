@@ -45,9 +45,6 @@ Constraints:
 1 <= N <= 103
 
 ### Solution [C++]
-
-
-
 class Solution
 {
     public:
