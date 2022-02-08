@@ -5,7 +5,7 @@
 
 |Day|Title|Description|Language|Source|Link|
 |--|--|--|--|--|--|
-|1| Best Time to Buy and Sell Stock II|Brute force approach|c++|<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">problem</a>|<a href=""|
+|1| Best Time to Buy and Sell Stock II|Brute force approach|c++|<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">problem</a>|<a href="https://github.com/Dharshini-SS/100-days-of-code/blob/main/day%201/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md">soln</a>|
 |2||||||
 |3||||||
 |4||||||
